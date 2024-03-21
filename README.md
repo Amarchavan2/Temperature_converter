@@ -23,7 +23,4 @@ This is a simple Java Swing application that converts temperatures between Celsi
 2. Open the project in your Java IDE.
 3. Run the `main` method to start the app.
 
-## License
-
-[Your license information here.]
 
